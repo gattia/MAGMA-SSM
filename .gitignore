@@ -1,2 +1,4 @@
 create_pca_Nov.26.2021.ipynb
 test*.vtk
+.DS_Store
+./.ipynb_checkpoints
